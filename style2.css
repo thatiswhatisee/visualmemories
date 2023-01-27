@@ -1,0 +1,174 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  font-family: "Arial Rounded MT Bold";
+  
+}
+
+.hauptbox{
+width:80%;
+}
+
+tr{
+    
+}
+
+
+h1{
+  font-weight: 700;
+  font-size: 50px;
+  color:black;
+  text-align: center;
+    font-family: "Avenir";
+}
+
+
+
+ul{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+
+}
+
+
+li {
+  list-style:none;
+  font-size: 1em;
+  font-weight: 600;
+  color: black;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+    text-align: center;
+}
+
+a:visited{
+  color:black;
+}
+
+a:hover{
+  color:hotpink;
+   
+    
+}
+.class{
+    align-items: center;
+}
+
+
+img {
+  height: 50%;
+  width:50%;
+  float:left;
+  margin-right: 20px;
+    margin-bottom: auto;
+}
+
+
+}
+.card1{
+
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+    
+    
+}
+.card2{
+  float: left;
+  margin-bottom: 50px;
+    padding: 10px;
+}
+.card3{
+  float: left;
+  margin-bottom: 50px;
+   
+}
+.card4{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+     
+}
+    
+    .card5{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+    .card6{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+       
+}
+ .card7{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.card8{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+        
+}
+.card9{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.card10{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+   
+}
+}
+
+p{
+  font-size: 1em;
+  font-weight: 400;
+}
+
+
+h2{
+  font-weight: 600;
+  font-size: 35px;
+  color: indianred;
+  text-align: center;
+    font-family: "Avenir";
+
+}
+
+
+
+h3{
+  font-weight: 600;
+  font-size: 1.5em;
+  color: lightgrey;
+  text-align: center;
+}
+
+.column{
+  columns: 3 7em;
+  column-gap: 3em;
+}
+
+
+
+
+section:nth-child(odd) img {
+    float: right;
+}
+
+
+
+
+
+
